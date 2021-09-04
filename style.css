@@ -40,7 +40,8 @@
     margin: 10px;
 }
 .bannerImage {
-    
+    height: 100%;
+    width: 100%;
 }
 .firstSection{
     height: 300px;

@@ -111,7 +111,7 @@ h2{
 .square{
     display: inline-block;
     height: 350px;
-    background-color: rgb(255, 81, 0);
+    /* background-color: rgb(255, 81, 0); */
     margin: 26px 40px 0px 90px;
     width: 250px;
 }

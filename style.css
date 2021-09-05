@@ -142,7 +142,7 @@ h2{
     border-radius: 20px;
 }
 .htmlButton:hover {
-    background-color: lightgreen;
+    background-color: lightsalmon;
 }
 .cssButton {
     display: block;
@@ -154,5 +154,5 @@ h2{
     border-radius: 20px;
 }
 .cssButton:hover {
-    background-color: lightgreen;
+    background-color: lightsalmon;
 }

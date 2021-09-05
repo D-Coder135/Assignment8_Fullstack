@@ -171,3 +171,15 @@ h2{
 .jqueryButton:hover {
     background-color: lightsalmon;
 }
+.bootstrapButton {
+    display: block;
+    background-color: blue;
+    margin-top: 18px;
+    text-decoration: none;
+    font-family: arial;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.bootstrapButton:hover {
+    background-color: red;
+}

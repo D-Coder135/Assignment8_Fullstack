@@ -10,12 +10,16 @@
     background-color: rgb(59, 59, 59);
     text-align: center;
     margin: 8px;
+    margin-top: 0px;
     line-height: 50px;
     color: whitesmoke;
 }
 .navigationBar {
     overflow: hidden;
     padding-left: 10px;
+    width: 100%;
+    background-color: rgb(59, 59, 59);
+    position: fixed;
 }
 .navigationBar a {
     float: left;

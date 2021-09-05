@@ -161,7 +161,7 @@ h2{
 }
 .jqueryButton {
     display: block;
-    background-color: blue;
+    background-color: red;
     margin-top: 18px;
     text-decoration: none;
     font-family: arial;
@@ -169,5 +169,5 @@ h2{
     border-radius: 20px;
 }
 .jqueryButton:hover {
-    background-color: red;
+    background-color: lightsalmon;
 }

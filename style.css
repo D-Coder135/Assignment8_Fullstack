@@ -2,7 +2,9 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
+
 .header{
     height: 50px;
     background-color: rgb(59, 59, 59);

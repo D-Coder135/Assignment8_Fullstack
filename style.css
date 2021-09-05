@@ -159,3 +159,15 @@ h2{
 .image2 {
     height: 41%;
 }
+.jqueryButton {
+    display: block;
+    background-color: blue;
+    margin-top: 18px;
+    text-decoration: none;
+    font-family: arial;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.jqueryButton:hover {
+    background-color: red;
+}
